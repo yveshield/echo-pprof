@@ -1,4 +1,4 @@
-module github.com/yveshield/echopprof
+module github.com/yveshield/echo-pprof
 
 go 1.15
 
